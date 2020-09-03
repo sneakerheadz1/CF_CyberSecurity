@@ -1,0 +1,12 @@
+Today’s reading introduced a few new concepts for me to understand endpoint devices, endpoint agents, and the
+hardening of operating systems. Endpoints are the devices at the end of a network connection ranging from desktops 
+to phones and printers and with the changing of the workspace environment we have to think about more than a traditional 
+off workspace environment and start to look at the changing landscape of the new working conditions. 
+Endpoint agents provide options and a number of steps for protecting endpoint devices and some considerations
+for choosing the best solution that works for your company and work environment. Establishing real-time monitoring 
+while leaving a light footprint and not using all the resources of the device are just a few subjects to consider when
+thinking of agents.
+The hardening of devices is more of a protection for the company and also establishing measures for protecting people from their selves,
+with the intention of limiting the use and functionality of the devices to the workload and task related to their responsibilities. 
+This is ever more important with more people working remote and possibly leaving their devices in places that may not be as protected as a
+traditional work building.
