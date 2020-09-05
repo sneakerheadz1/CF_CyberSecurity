@@ -1,0 +1,11 @@
+Today's reading was about DNS(Domain Name Server) and the Ubuntu server, 
+they both were pretty interesting, it started with learning about the history
+of the dns and how the system originated in the 1980 and before that the people
+who could actually communicate by using ip address. It really emphasizes how 
+important the dns is and it's not really known to many. Beside the history I 
+learn about all the behind the scene work that goes into exchanging the ip 
+address for actual words and the number of servers involved from the dns to the tld. 
+The ubuntu article was more about standing it up but there were some interesting key
+takeaways such as even tho its open source it can scale to enterprise levels as a
+cost effective option and how it has been a top competitor in working with cloud 
+service, so when i actually have a chance to stand mine up i will be able to test its capabilities.
