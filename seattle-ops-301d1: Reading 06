@@ -1,0 +1,12 @@
+Microsoft Active Directory
+
+In todays reading I learned about active directory and its many used Active Directory is a tool
+created by Microsoft in the 1990’s and acts primarily as a systems management tool that allows
+those with access the ability to manage the software and the use ability of the users listed in
+the actual directory. Active directory was the first of its kind to be able to maintain active 
+up to date records in the data base but updating all the servers when changes were base to data.
+
+As you dive deeper active directory gets more complex than just a management system, also its still
+primarily allows management of systems the layers of how its done get more complex, the understanding 
+of forest, trees, groups and domains is understandable at a high level but would like to dive a
+little deeper to understand it at a conceptual level. 
