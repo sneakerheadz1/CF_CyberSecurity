@@ -1,0 +1,12 @@
+The reading provided a pretty in-depth information about segmentation and some of the reasons that it 
+is implemented. Network segmentation is a way of taking a network and dividing it into individual smaller 
+networks, this allows for the administrator of the network to have greater control of the flow of traffic
+that happens within the network. Segmenting a network is useful for improving performance
+within pockets of the network as well as increasing security by now allowing 
+for communication outside of a defined network. 
+
+Network segmentation is implanted a few different ways it can include VLAN configuration or creating
+policies and rules within the router interface. It also touched on some concepts that have come about
+in regards to the way companies have began to look at what it deems a vulnerability, and their new approach
+to zero trust where no one even employees are considered trustworthy therefore tougher restrictions are needed
+within enterprise networks to protect company data.  
