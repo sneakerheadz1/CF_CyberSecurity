@@ -1,2 +1,10 @@
 Dom Moore
-Active Directory Reading
+
+the reading for today spoke to what an activce directoy is, the first article spoke at a high level of what AD DS is in its
+relaction to AD and this when people are speaking about AD they are referring to AD DS, it also spoke to weather AD should be 
+considereed an database or a directory to me it seems like it could be considered as both because it emcompasse both fuctions but 
+based on the reading definition they look at it as a directory because how its structured.
+
+the Secound article was also a high level artical and provided some basic understanding of the structure of AD
+and how it starts at the OU level and travels downward to smaller parts, the OU has the most hierarchy and other nodes travel 
+down from there weather its goups, user, devices ect...
