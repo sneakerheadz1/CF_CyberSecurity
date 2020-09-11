@@ -1,1 +1,14 @@
-Active Directory
+Dom Moore
+9/10/20
+Routing reading
+
+This reading spoke in a detailed way about routing, what it is how its used and the benifits of different types of routings.
+routing is a process that allows over layer 3 of the osi model data(packets) to be tranfered over a network, this is done by 
+either one of three ways static(manually adding routes to the routing table), default also manual(this send all packets to a 
+specific router, no matter the route), and dynamic most commonly used (automatically makes adjustments to the route of packets
+based on the state of each routes.)
+
+The articles also touched on a routing protocol called OSPF which stands for (Open Shortest Path First), this is an internal internet 
+prtocol which allows for network connections within a internal private system and does not allow communication with a WAN network. there
+is more than once version and OSPF Version 3 is a updates version that can be used with both ipv4 and ipv6 providing more capabilities but
+still is not the most scalable option for routing.
