@@ -1,0 +1,13 @@
+The reading for today touched on the topics of DMZ (Demilitarized Zone) and looking into what defines a server. 
+Starting with DMZ refers to a area or zone within a subnetwork that is left venerable. This is intentionally 
+done with the intentions of providing a more secure network for the local network. Typically you will 
+create a DMZ within your network infrastructure to protect against attacks on your local network devices 
+and database, since the DMZ is the most venerable area of the network when’ if its attacked hopefully there 
+are none of your internal devices connected to the servers or devices intended to designated to the DMZ,
+therefore if the attackers they to bypass into more internal devices they will be blocked by the secondary l
+ines of defense, firewalls.
+
+The next article touched on servers, servers are useful for a number of different thinks from allowing
+to create internal web pages to help manage data on the network, server can be both hardware and software
+that works together manages files, it also touched on the differences between the older less secure HTTP 
+port 80 and the newer version HTTPS port 443 that handles ssh encryption. 
