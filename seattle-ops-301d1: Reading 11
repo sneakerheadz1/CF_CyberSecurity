@@ -1,0 +1,13 @@
+The reading for today touched on the topics of Azure cloud and Azure Identity management within
+the Active Directory. Azure is Microsoft based cloud computing services there services range from 
+using there data centers for storage and backups so there is less need for organizations to possess
+their own hardware, to also hosting web servers through the Microsoft cloud platform. Azure can be
+used to host virtual machine all the way to creating and deploying applications, this also included
+the ability to manage directories.
+
+The Identity management service in the cloud allows for the benefits of the AD that was on-perm to
+be adapted to the could based format in the cloud allowing for the users within the network to access
+enterprise systems in order to manage system for a sys admin, as well as employees to log into their 
+individual workstations remotely. This cloud Active acts similar to the traditional AD allowed for
+creation of users, groups and setting different levels of restrictions but with some added security 
+process for the cloud that needs to me implemented by the administrator to be active.
