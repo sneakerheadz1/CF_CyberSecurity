@@ -1,0 +1,15 @@
+Todays readings focused on DevOps, the articles provided insight on what devOps is, some 
+discussion on how the idea around the framework was created and the goals of DevOps. DevOps
+is a hybrid of what was a previously silo’d departments development and the operations these
+two frameworks came together with the goals of creating a system that produced continuous
+integration, continuous delivery, continuous testing and continuous monitoring. When first
+heard these concepts in relation to DevOps it reminded me of a similar agile or design 
+thinking process where the objective is to put services/products In the hand of customer 
+asap with the goal of continuing the iteration process throughout the lifecycle of the product.
+
+Infrastructure as code (Iac) was a very interesting concept the idea of packaging virtual
+machines or servers up as script for quick and easy deployment was something new to me and 
+the Idea is still a bit vague, but on a high level it makes since, instead of having to spend
+time or money to implement a hardware or having staff work on different systems you can create
+a IaC and allow for deployment of the same systems for different teams, as well having backups
+readily available. 
