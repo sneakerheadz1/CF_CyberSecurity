@@ -1,3 +1,17 @@
 Dom Moore
 9/16/20
 WSUS & PATCH MANAGEMENT Reading
+
+
+The reading for today touched on the subjects of patch management and WSUS, Patch managament is the 
+process of being up to date on systems most recent security patches and creating a plan to have regular role out
+for organizational to schedule patch up dates, it says that still to this day, bad patch maanagement is the biggest cause of
+cyber attacks. the atricle went on to describe what a patch is, and basically its replacement code, that was created
+after a eulnerability or a break in code was discovered and this block of code, and this new code patches the previos code to 
+be more inline with products expectation. there are three main path types for bug fixes, feature patches and most importantly security 
+patches, there is also away to deploy patches in a customized way to fit an organizations need but sometimes patches
+can hender a system if it dependent on older technology.
+
+WSUS is a window based server system that is used by sys admins for the management of data, it assits with update deployment. it offers 
+services such as update management which allows for customized deployment of systems updates to endpoints and servers. this article also 
+touches on the ways WSUS can be implemented wither through the gui or through powershell to manage updates.
