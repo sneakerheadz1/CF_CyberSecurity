@@ -2,3 +2,10 @@ Dom Moore
 09/17/20
 SQL
 
+Today's reading was about SQL structured query language, and what is considered data/ database.
+Data could be almost anything if refrence to and object, it could information such as documentation, employment information
+customer data, or images and a database is simply the systematic colledtion and storage of data. Sql computing langhuage similiar to
+python, javascritp and other computing languages that allows for you to work with relational data tables. A relational data based
+is a data table that consist of keys primary and forign keys and those key provide a relationship to other data tables that can be 
+queired by using slq commands to request specific data from the tables. sql is used to analyze data in a more effiecnt way with a simple 
+human readible computing language.
