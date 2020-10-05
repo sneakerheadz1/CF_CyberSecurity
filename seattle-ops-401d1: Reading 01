@@ -1,0 +1,9 @@
+Todays reading was centered around understanding what Kali and metasploit is, kali is a linux based tool
+that was developed primarily for pentesting and security tools built in which can be used to research and 
+reverse engineer programs. Kali was released in 2013 and like its predecessor backtrack remains free with 
+an open-source, this version has been slimmed down from the backtrack version manning the program and the 
+tools within in kali more efficient and relevant to offensive security.  
+
+Metasploit is framework for pen-testing, it was originally released in 2003 and is used to simplify the hacking
+process by automating some of the more repetitive tasks that are involved. Metasploit integrates with most other
+hacking tools such as nmap and Nessus making it a go to tool in the industry.
