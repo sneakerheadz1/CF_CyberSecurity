@@ -1,0 +1,21 @@
+Dom Moore 
+SOC & Nagios
+10.6.20
+
+Todays reading covered the topics of SOC (Security Operation Center) and Nagios a monitoring tool. 
+On a high level SOC is team of security professional within a organization comprised of analyst, 
+security managers and engineers, who work with the developers and IT department within the 
+organization to detect, analyze and prevent data breaches of that organization. There and been 
+and will continue to be an increase in data breaches and having a dedicated SOC within the 
+company can help minimize the potential losses significantly. 
+
+The reading suggest that the most efficient ways to incorporate a SOC into the organization 
+is to define a strategy and stable infrastructure for the team, allowing the team to crate 
+core responsibilities and roles within team members this will allow for the high benefits 
+for the company resulting in increased incident response time, reduction in investigation 
+complexity by dividing and many more.
+
+The next article provided insight on Nagios which is network monitoring tool, this is an open 
+source tool that will monitor services and give performance feedback when an issue is detected. 
+Nagios monitors a number of networks from HTTP to SSH and FTP just to mention a few, the goal 
+of this tool is to help identify problems and weaknesses in order to find solutions to the detected problem.
