@@ -2,3 +2,18 @@ Dom Moore
 10/12/20
 reading CIA TRIAD / Hashing
 
+Today's reading were about the CIA Triad and what are hashes. To  begain CIA represents Confidentialiaty
+Integrity and Avaliability and are part of the foundatoin of information security and key elements of the 
+NIST CSF. In the context of the cia triad condifentially means protecting the privacy of information and 
+there are a number of reasons that information should be kept private from keepting consumer data private
+to protecting intellectual property safe.One of the ways data can be kept confidential is through encryption. 
+The next is Integrity and this represents preventing data from beingtampered with at rest or in trasit, the 
+should contain acurate data and should be free of all unauthorized changes and lastly is Avaliability when 
+means that data should always be avaliable and measures should be in place to ensrue this in unforseen events
+such as natural diasters or server attacks data should be backed and able to be restored. 
+
+The next topic touched on the topic of hashing, and how the work hashing can see to be in the same family as 
+cryptogrophy but a not nessearily considered encryption or decryption. Different forms of hasing perform the
+same functiuon of hashing but in different ways the are a number of hashing categories from MD family to the
+SHA family, hashes takes a block of data and through a cryptpgraphic function produces a string of varios 
+charcters that act as a key to that block of data.  
