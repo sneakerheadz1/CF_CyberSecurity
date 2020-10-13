@@ -1,0 +1,15 @@
+Dom Moore
+10/13/20
+data at rest vs in transit
+
+
+Todays reading covered the topics of data in transit and data at rest and privided insight on what both are 
+and the factors that seperate them The idea of data in transit is data that is being moved either through the
+internet or private networks and this could be something that is being transfered locally or something that 
+is being sent to or through different clould providers that are hosting your data. On the other hand data at rest
+is data that is not in motion this could be data that you have archived or data that you are required to hold for
+a certian period due to compliance. this article spoke to how important it is to have encryption measures in place
+for data in transit as well as in rest and there are a number of ways of accomplishing such, one of the ways is top 
+make sure that when you transfer data over a network that you are using safe protocols such as https and ssl ports 
+to send the data over more secure ports. also when it comes to businessincorporation data security process and policies
+into the org so that the employees are aware are using best practices when it comes to handling data.  
