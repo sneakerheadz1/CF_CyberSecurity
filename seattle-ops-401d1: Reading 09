@@ -1,0 +1,9 @@
+Dom Moore
+10/15/20
+PKI
+
+Todays reading was on the topic of PKI public key infrastructure, there are a lot of factors related to pki but
+but an are of pki is the managing of keys and certificates that are assioated with keys this is defined my the process of
+authenticating a device with a user digitally. this authentication process creates a trusted relationship between the user
+and the devicethis process includes a digital creation of a key and and a CA certificate that validates both the user and
+the device and allows the user to enteract witht he device.
