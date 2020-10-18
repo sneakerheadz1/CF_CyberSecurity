@@ -1,0 +1,12 @@
+Dom Moore
+Wireshark
+
+Today’s reading was about the tool Wireshark, which is used to scan and capture packets sent over networks.
+This tool can be used to capture the information within thoes packets such as the credentials contained inside
+those packets such as passwords and usernames. To obtain this information through Wireshark you need to be able
+to gain administrative privileges but there is a way that you can tell the tool you want to accept all the packets
+that are identified in the scan through promiscuous mode. 
+
+The Wireshark tools work by using network cards and combining them with other tools span ports and npcap allowing
+you to see packets on wifi or that are not directly sent through ports connected to your switches. wireshark encompasses 
+a number of feature that allow for some decryption and using those feature to decrypt passwords.
