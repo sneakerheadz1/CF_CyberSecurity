@@ -1,0 +1,12 @@
+Dom Moore
+Intrusion Detection System
+
+Today’s reading was on the topic of network intrusion detection system (NIDS), a NIDS is a program that identifies potential
+threats and is a vital tool in an enterprise system, this system provides notifications of [otential threats to the system to
+allow the system admin to analyze threats and take action. This tool differs from Intrusion Prevention Systems (IPS) which has
+the capability of actually blocking threats that are detected as well as log the alerts that are detected, but the flaw is that
+if not configured correctly it will prevent legit programs from accessing the network as well.
+
+The benefit of the NIDS is that it can be configured and has the ability to show you the information inside the packets, and protocol
+analysis which looks at the TCP UDP payloads. With there ability to quickly analyze threats allows for quick response to potential
+threats to the network.
