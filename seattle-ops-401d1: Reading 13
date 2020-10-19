@@ -1,0 +1,11 @@
+Dom Moore
+Vpc 
+
+Today’s reading was on the topics of VPC, the virtual private cloud which is essential in a cloud-based environment
+was the subscriber of the service has to control over their private network within the could. They have their own IP
+address range as well as the ability to establish ad subnet within the private network. Although the idea can be complicated
+the elements of a vpc are similar to that of an on-prem network, which is a virtual private network consists of Route Tables, 
+Internet Gateways, Network Address Translation, and Security groups just to name a few.
+
+Aws vpc is Amazon virtual private cloud that will provide amazon cloud users with the resources within their cloud to manage 
+the other resources and tools available in their cloud arenas such as EC2 instances, elastic block storages, and thousands more. 
