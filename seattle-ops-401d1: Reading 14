@@ -1,0 +1,13 @@
+Dom Moore
+traffic mirroring 
+
+
+Todays reading was on the topic of traffic mirroring, which is the coping of inbound and outbound traffic that is taking
+place over another device that are attached to the same network. To mirror traffic through aws you need to establish a 
+target device which is the device that will be set up to monitor and a source device from which the traffic is entering 
+and exiting. This connection has to be done through either two devices on the same vac or connected through peering.
+
+ There are reasons that you would want to mirror traffic from on device to anther, one reason is if you can keep an open
+ eye on the devices that are within your network to analyze the traffic coming in and out to determine threats and possible
+ pattern of potential threats. You can combine this mirror feature with a tool like Wireshark or a collection data into a 
+ more analyzable format to assess and diagnose network traffic and possible vulnerabilities. 
