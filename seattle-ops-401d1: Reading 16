@@ -1,0 +1,41 @@
+Dom Moore
+CyberSecurity Kill Chain
+
+
+Today’s reading touched on the topic of the CyberSecurity kill chain, the CyberSecurity kill chain is a framework that
+was designed based on a military approach to how attacker formulates attacks and was applied to cybersecurity to demonstrate
+the seven steps that take place surrounding a cyber attack. The seven elements that make up the kill chain are 
+
+1. Reconnaissance
+The first step of an attack is the research phase, this is where information is gatherers on targets that will be used to
+prepare for the next step in the chain. There are two methods involved in this process passive and active. The passive approach
+takes a hands-off stance of information gathering using information that is publicly available. The latter takes a more aggressive 
+approach in which the attacker probes the network for weaknesses.
+ 
+ 2.Weaponization
+This step is where the attacker has determined a weakness in the network and attempts to take advantage of the weakness and depending 
+on the information recovered in phase one will determine what approach the attacker uses to move to step three. 
+
+3. Delivery
+This the phase of the attack where the weapon of choice is initiated based on the previous two-step and the payload or exploit has 
+been delivered at various entry points of the system.
+
+4. Exploitation
+This is one of the most dangerous phases, the attack has been executed, and the victim is at the mercy of the attacker or the 
+damaged is managed due to detection. 
+
+5. Installation
+This phase works in tangent with phase four, in this phase, the attacker is able to deliver payloads on to the systems to gain 
+even more control, with the ability to gain higher levels of access, which can lead to gaining future access to systems. 
+
+6. Command and Control
+This is where the system is completely under the control of the attacker, they are considered persistent at this point, and removing
+them could take a total overhaul of the network and software within the entire infrastructure. 
+
+7. Actions on Objectives
+This defines the overall cause and effects of the attack and is determined by understanding the motives behind the attack and why you
+were the target, this could be for any reason, financial being the most common. 
+
+Though defensive measure this chain could be broken, one break in the chain could prevent the attacker from moving forward through the 
+next phases of the chain, the organization should access their network and business model to determine what are their security priorities
+and start to implement security measures that would allow for detection or prevention of unauthorized access.  
