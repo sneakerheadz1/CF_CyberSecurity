@@ -1,0 +1,14 @@
+Dom Moore
+Application threat modeling 
+
+
+Today’s reading was on the topic of OWASP threat modeling what it is why is used and ways it could go wring. 
+Threat modeling is the process of identifying, communicating and mitigating occurrences in protecting something
+of value, in reference to application it is mainly data. Threat modeling is applied to networks, software, 
+applications and systems  and can take place at any step within the development cycle. 
+
+Threat modeling included a framework that are commonly followed, what area the threats, what are the concerns
+to prioritize and how to test and validate threats. This framework helps to set best practices when in the product
+development process to assist in creating secure code, identify vulnerabilities and balance risk with usability. 
+When using any modeling techniques its is essential that documentation is taking place throughout the steps to
+have a record to reference and should be help as a living document that is updates over time.
