@@ -1,0 +1,16 @@
+Dom Moore
+
+
+Todays reading was related to the STRIDE security threat model, which is a framework created by two
+Microsoft employees that could help expose vulnerabilities to your application or network security. STIRDE stands for,
+
+Spoofing - when someone claims to be a person or system they are not
+Tampering - interfere with in order to cause damage or make unauthorized alterations.
+Repudiation -  auditing and tracing, ensuring that bad behavior cannot be proven
+Information Disclosure - private information that accidentally or purposefully disclosed
+Denial of Service - makes a system unreachable by exploiting resources so they can’t be used
+Elevation of Privileges - elevation of privilege is related targeted authorization within a system
+
+Stride is a framework that can assist in assessing your current security posture, you can use these six 
+steps to tool to see how your program or organization holds up, you can test each process helping to establish
+a understanding of your strengths and weakness.
