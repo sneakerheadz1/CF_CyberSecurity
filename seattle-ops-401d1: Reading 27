@@ -1,0 +1,10 @@
+Dom Moore
+Reading 27
+Adding windows data to splunk
+
+Todays reading was on the topic of adding data into splunk from a windows endpoint and some of the
+steps involved, one of the key prerequisite of getting realtime data into splunk from windows or 
+another server is by installing the universal forwarder onto the host you wish to gather data from.
+Some of the benefits of using the universal forwarder on remote host is it provided detailed monitoring 
+metrics and it's also scalable. It is recommended to install the forwarder as clean as possible initially
+and after instillation then configure to fit the business needs. 
