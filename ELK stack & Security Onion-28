@@ -1,0 +1,15 @@
+Dom Moore
+Reading 28- ELK stack & Security Onion
+
+
+Todays reading touched on the topics of security onion and ELK stack, security on is associated with the category of 
+security network monitoring and tases systems are used to primarily bring awarded to vulnerabilities and can also be 
+used to detect malware and expired certificates, what these systems are not is a prevention system they can alert or
+bring to attention irregularities in a system but it will not stop an event from taking place within your network. 
+Security onion is an open source tool that host a number of containerized application/ programs within it their
+programs can be used with other programs or independently of security onion.  
+
+ELK stack is comprised of threes different programs within security onion, and are comprised of ElasticSearch,
+LogStash, and Kibana these three programs are meant to work together, the primary use of the ELK stack to processing file
+logs into JSON documents, JSON files are beneficial because they can store almost any type of data source, using 
+ElasticSearch combined with other data fetching resources makes ELK stack and very useful tool for data analysis. 
