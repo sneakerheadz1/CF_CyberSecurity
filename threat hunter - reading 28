@@ -1,0 +1,9 @@
+Dom Moore
+Reading Threat hunting
+
+Todays reading was in the topic if threat hunting, threat hunting is the proactive process of analyzing
+all the systems and devices on the network in search of possible threats, it is not the same as someone 
+using Siem or being reactive. A threat hunter uses their tools such as Rita and other to seek out possible 
+vulnerabilities in the system to confirm or deny that the system has no current threats, they are important 
+because the are working to constantly prevent attacks before they are present on the system testing the system
+and regularly looking for irregularities and afterwards repots on the finding. 
