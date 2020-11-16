@@ -1,0 +1,14 @@
+Dom Moore
+Reading 32
+SQL / XSS Injection
+
+Todays reading was on the topic of scripting injection, there are two common approached to this sql injection and
+cross site scripting. Sql injection is when attackers uses commands associated with the database through input fields,
+that trigger unintended Sql responses grating the attacker access to information that is unauthorized, was to mitigate
+against this type of attack is to sanitize user inputs, preventing users from users from input raw sql commands as inputs. 
+
+Cross scripting is using vulnerabilities in javascript to by injecting malicious javascript code into a webpage that alters
+the pages behavior,  cross scripting can be used to make simple changes to how the web site functions to accessing credentials 
+and gaining access to sensitive information. The ways to militate against cross scripting is similar to sql injection, developers
+need to place validation parameters into their code the validates user input and provides and error to the users instructing 
+them to input correct field information. This validation process will prevent malicious commands from passing through the code. 
