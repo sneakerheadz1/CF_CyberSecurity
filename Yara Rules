@@ -1,0 +1,11 @@
+Dom Moore
+Reading 30
+YARA Rules
+
+Todays reading was on the topic of YARA rules, YARA is a tool that allow you to write rules to find 
+malware on the system or network and emails, it essential parse code to and it will identify if the 
+code is related to other know malware code that has already been identified.  One of the ways you can 
+use YARA is creating key words that if I the word is identified then you can be notified of it as 
+possible malware and prevent you from clicking the link or downloading malicious files. Something 
+that is important to keep in mind when you YARA and could be disregarded without consistency is changing
+or updating YARA rules to change as the malware changes so that the rule applies to the changes. 
