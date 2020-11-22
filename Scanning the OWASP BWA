@@ -1,0 +1,12 @@
+Dom Moore
+11/23/20
+reading 36
+
+Todays reading was on the topic of application security, the article was based on a report done in 2018 that
+summarized finding collected from the was, azure systems. This article focuses the most common application 
+attacks which are cross-site scripting and sql-injection. With the high usage of applications being build and
+more and more people using the device to communicate and inout data the security of application are ever more
+important. Protecting application from sql injection and cross site scraping comes early on in the development
+process and that why the need to have security involved in the early stages of ideation is key. Security processionals
+are not required to be developers but having a collaborative team, can help test and educate teams on what to look for
+when developing new application, helping to limit the vulnerabilities when in comes the theses Mose popular forms of attacks. 
