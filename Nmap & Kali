@@ -1,0 +1,8 @@
+Dom Moore
+Reading 42 Nmap and Kali
+
+Todays reading was on the topic Nmap and kali linux, Kali is a operating system that us used for
+pen testing and is configured with hundreds of tools that would useful in attacking systems and 
+nmap is one of the tools within the kali linux operating system. Nmap is a tool that is useful in
+analyzing systems network traffic but reading packets that are identified over network traffic, these 
+packets can be used to uncover troves of I formation about the network , device as well as personal. 
