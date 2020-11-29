@@ -1,0 +1,10 @@
+Dom Moore
+11/20/20
+Reading 39 understanding sql injection
+
+Todays reading was on the topic of understanding sql injection, Sql injection is when attackers uses commands
+associated with the database through input fields, that trigger unintended Sql responses grating the attacker 
+access to information that is unauthorized, ways to mitigate against this type of attack is to sanitize user 
+inputs, preventing users from users from input raw sql commands as inputs. The reading continued to explain that 
+sql is a rational data based manages data and can be queried to retrieve data. 
+
