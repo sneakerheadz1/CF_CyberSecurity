@@ -1,0 +1,10 @@
+Dom Moore
+Reading 43
+
+
+Todays reading was on the topic of sniffing, sniffing is the process of monitoring and capturing packets that 
+are traveling over a network, these packets can be used for various reasons, but attackers typically used packet 
+data to attempt to uncover sensitive information that is traveling over the network and held within the packets. 
+There are two different types of sniffing active sniffing and passive sniffing. Active sniffing is the active 
+injection into the LAN to enable sniffing of the traffic, passive sniffing is essentially sniffing through a hub 
+all traffic traveling over a non switched network can be seen on the network. 
