@@ -1,0 +1,12 @@
+Dom Moore
+Reading 44
+
+Today's reading was on the topic of Metasploit, Metasploit is one of the many tools that are native to a Kali 
+Linux machine, and is used as a penetration tool, making hacking seem less complicated, therefore becoming an 
+intricate tool in vulnerability exploits and used widely among blue and red teamers. Metasploit integrates
+well with other tools such as Nmap which helo highlight some of the reasons this is a popular tool, using 
+Metasploit you can create, manipulate, payloads point it at a target machine, and let it work. once the payload 
+has been executed, you can use a meterperter session to shell into the target computer and possibly execute 
+different attacks or just gather more information for research. Metasploit is a powerful tool and something 
+that security professionals should be familiar with because there is a good chance that you will need to use 
+it or understand its capabilities at worse.
